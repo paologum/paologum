@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi!! 😄
 
+- 🎒 I'm currently enrolled at Purdue working towards a Computer Science degree
+- 🌱 I'm currently learning Typescript, Javascript, Node.js and React.js!
+- 📫 How to reach me: paologum@gmail.com
+- ⚡ Fun fact: I'm 1650 rated on chess.com 😋
 <!--
 **paologum/paologum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
