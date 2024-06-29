@@ -1,6 +1,6 @@
 ### Hi!! 😄
 
-- 🎒 I'm currently enrolled at Purdue University as junior, majoring in Computer Science.
+- 🎒 I'm currently enrolled at Purdue University as a senior, majoring in Computer Science.
 - 🌱 I'm passionate about learning and expanding my skills. Currently, I'm focusing on mastering Typescript, Javascript, Node.js, and React.js.
 - ⚡ Fun fact: I'm a chess enthusiast and have a 1650 rating on chess.com! Let's play a game sometime! ♟️
 - 👯 In addition to my studies, I'm actively leading development and working on a repository called tsconline for geologists. This project aims to revolutionize online education in the field of geology by leveraging modern web technologies. If you would like to collaborate or get more information, let me know! Stay tuned for updates and contributions!
